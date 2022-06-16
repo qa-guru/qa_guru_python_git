@@ -3,4 +3,7 @@ def test_one():
 
 def test_two():
     assert 3 > 1
+    
+def test_3():
+    assert 3 > 1
        
