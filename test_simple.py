@@ -15,3 +15,6 @@ def test_4():
 
 def test_5():
     assert 3 > 1
+
+def test_6():
+    assert 2 > 1
